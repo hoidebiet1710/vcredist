@@ -2,6 +2,7 @@
 
 > [!NOTE]
 > More information you can find on Microsoft [documentation](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170).
+>
 > Or [documentation] (https://github.com/abbodi1406/vcredist/tree/master/source_links).
 
 ## Microsoft Visual C++ 2005 Redistributable Package
