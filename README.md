@@ -21,19 +21,19 @@
   * [x64](https://aka.ms/highdpimfc2013x64enu) *12.0.40664 (EOL)* `Microsoft.VCRedist.2013.x64` <br>
   * [x86](https://aka.ms/highdpimfc2013x86enu) *12.0.40664 (EOL)* `Microsoft.VCRedist.2013.x86` 
 ## Microsoft Visual C++ 2015-2022 Redistributable Package
-Version 14.44.34823.2
+> Version 14.44.34823.2
 
 https://download.visualstudio.microsoft.com/download/pr/81892352-0450-45e3-952b-47d7488a5251/D04361F994AA6C89CEEAC5699713C1D67D62B14E36EA376C363707E498796133/VC_redist.x64.exe
 https://download.visualstudio.microsoft.com/download/pr/81892352-0450-45e3-952b-47d7488a5251/A83D347705BE51C8AA1542652A2A2664E65B2FB7842A058CE9E995E43C6EF9A2/VC_redist.x86.exe
 https://download.visualstudio.microsoft.com/download/pr/5be60961-ae47-4e56-b91c-a257a9f35550/571A661345698186B687F7CE7040B80724A577F9C19572F5B5F307DE29B759C9/VC_redist.arm64.exe
 
-Version 14.42.34438.0
+> Version 14.42.34438.0
 
 https://download.visualstudio.microsoft.com/download/pr/5a4551ad-c344-44d0-84a8-8488321dd7cf/8F9FB1B3CFE6E5092CF1225ECD6659DAB7CE50B8BF935CB79BFEDE1F3C895240/VC_redist.x64.exe
 https://download.visualstudio.microsoft.com/download/pr/5a4551ad-c344-44d0-84a8-8488321dd7cf/C4E3992F3883005881CF3937F9E33F1C7D792AC1C860EA9C52D8F120A16A7EB1/VC_redist.x86.exe
 https://download.visualstudio.microsoft.com/download/pr/5a4551ad-c344-44d0-84a8-8488321dd7cf/8A81A52B7FF6B194CB88E1BB48D597B6588D2B840552909359F286FB1699235C/VC_redist.arm64.exe
 
-Version 14.42.34433.0
+> Version 14.42.34433.0
 
 https://download.visualstudio.microsoft.com/download/pr/c7dac50a-e3e8-40f6-bbb2-9cc4e3dfcabe/1821577409C35B2B9505AC833E246376CC68A8262972100444010B57226F0940/VC_redist.x64.exe
 https://download.visualstudio.microsoft.com/download/pr/84c7705c-37c2-44cb-9454-c0aadea5661b/DD1A8BE03398367745A87A5E35BEBDAB00FDAD080CF42AF0C3F20802D08C25D4/VC_redist.x86.exe
